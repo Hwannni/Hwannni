@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
 -->
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+![Git]("https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white")
 
