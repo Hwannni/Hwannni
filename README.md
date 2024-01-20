@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwannni&show_icons=true&theme=radical)
+<div align="center" style="text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Hwannni&show_icons=true&theme=radical" alt="GitHub Stats">
+</div>
+
+
 <!--
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
