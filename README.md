@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
 -->
+<!--
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center" style="text-align: center;">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=ffffff" alt="Linux">
@@ -41,7 +42,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff" alt="MySQL">
 </p>
-
+-->
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
